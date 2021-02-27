@@ -1,0 +1,12 @@
+﻿<UserControl x:Name="ImageManager" x:Class="CustomControls.ImageManagerControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CustomControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="860" Width="860" Height="732">
+    <Grid x:Name="GridTopLevel" x:FieldModifier="private" Height="732" Width="860" HorizontalAlignment="Left" VerticalAlignment="Top">
+        
+    </Grid>
+</UserControl>
